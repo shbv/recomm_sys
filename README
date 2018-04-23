@@ -1,0 +1,5 @@
+Recommender system implemented using Colloborative filtering and Neural network, with Embedding layers
+
+Dataset: MovieLens small
+
+Inspired from fast.ai course
